@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/burger/static/css/main.8d15b123.chunk.css",
+    "main.js": "/burger/static/js/main.3087da69.chunk.js",
+    "main.js.map": "/burger/static/js/main.3087da69.chunk.js.map",
+    "runtime-main.js": "/burger/static/js/runtime-main.8b4707a1.js",
+    "runtime-main.js.map": "/burger/static/js/runtime-main.8b4707a1.js.map",
+    "static/js/2.c86870bc.chunk.js": "/burger/static/js/2.c86870bc.chunk.js",
+    "static/js/2.c86870bc.chunk.js.map": "/burger/static/js/2.c86870bc.chunk.js.map",
+    "index.html": "/burger/index.html",
+    "precache-manifest.2818e2cd9c01b765d0e2405d1f622da6.js": "/burger/precache-manifest.2818e2cd9c01b765d0e2405d1f622da6.js",
+    "service-worker.js": "/burger/service-worker.js",
+    "static/css/main.8d15b123.chunk.css.map": "/burger/static/css/main.8d15b123.chunk.css.map",
+    "static/js/2.c86870bc.chunk.js.LICENSE.txt": "/burger/static/js/2.c86870bc.chunk.js.LICENSE.txt",
+    "static/media/ControlTopings.css": "/burger/static/media/1.cb66f89e.jpg",
+    "static/media/chips.png": "/burger/static/media/chips.0432b2a4.png",
+    "static/media/cup.png": "/burger/static/media/cup.15a62c68.png",
+    "static/media/navlogo.png": "/burger/static/media/navlogo.c315d8e0.png",
+    "static/media/salat.png": "/burger/static/media/salat.70d8f789.png",
+    "static/media/top.png": "/burger/static/media/top.1915b5f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4707a1.js",
+    "static/js/2.c86870bc.chunk.js",
+    "static/css/main.8d15b123.chunk.css",
+    "static/js/main.3087da69.chunk.js"
+  ]
+}
